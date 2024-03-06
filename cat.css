@@ -1,0 +1,26 @@
+img{
+    width: 250px;
+    height: 150px;
+    float: left;
+}
+.pro{
+    width: 450px;
+    height: 350px;
+    background-color: red;
+}
+p{
+    font-size: 20px;
+}
+.both{
+    display: flex;
+}
+#pro2{
+    position: relative;
+    left: 555px;
+    background-color: aquamarine;
+}
+footer{
+    background-color: aqua;
+    text-align: center;
+    margin-top: 15px;
+}
