@@ -1,0 +1,27 @@
+#section1{
+    background-color: rgb(50, 163, 19);
+    border:2px solid black;
+    border-width: 20px;
+    height: 300px;
+    width: 250px;
+}
+#section2{
+    
+    background-color: yellow;
+    border:2px solid black;
+    border-width: 20px;
+    height: 300px;
+    width: 250px;
+    margin-left: 290px;
+}
+
+#section3{
+    
+    background-color: palevioletred;
+    border:2px solid black;
+    border-width: 20px;
+    height: 300px;
+    width: 250px;
+    /* float: bottom; */
+    /* margin-top: 340px */
+}
